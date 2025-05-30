@@ -14,7 +14,7 @@ class MyCalculator implements AdvancedArithmetic{
         return total;
     }
 }
-class Main2{
+class SumOfFactorsOfNumUsingInterfaces{
     public static void main(String yup[]){
         int n=6;
         MyCalculator m=new MyCalculator();
